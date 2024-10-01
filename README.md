@@ -35,7 +35,7 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da 
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="back.png" width="70%" height="70%"> 
+      <img src="Ali.pdf" width="70%" height="70%"> 
 <p align="center">
 
 
